@@ -1,4 +1,4 @@
-package com.vaxapp.igintelligence;
+package com.vaxapp.instelligence;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -10,10 +10,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.vaxapp.igintelligence.dummy.DummyContent;
-import com.vaxapp.igintelligence.dummy.DummyContent.DummyItem;
-
-import java.util.List;
+import com.vaxapp.instelligence.dummy.DummyContent;
+import com.vaxapp.instelligence.dummy.DummyContent.DummyItem;
 
 public class ItemFragment extends Fragment {
 

@@ -1,4 +1,4 @@
-package com.vaxapp.igintelligence;
+package com.vaxapp.instelligence;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

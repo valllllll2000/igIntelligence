@@ -1,4 +1,4 @@
-package com.vaxapp.igintelligence;
+package com.vaxapp.instelligence;
 
 import org.junit.Test;
 

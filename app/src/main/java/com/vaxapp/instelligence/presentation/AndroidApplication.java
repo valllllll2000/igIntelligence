@@ -1,9 +1,9 @@
-package com.vaxapp.igintelligence.presentation;
+package com.vaxapp.instelligence.presentation;
 
 import android.app.Application;
-import com.vaxapp.igintelligence.injector.component.ApplicationComponent;
-import com.vaxapp.igintelligence.injector.component.DaggerApplicationComponent;
-import com.vaxapp.igintelligence.injector.module.ApplicationModule;
+import com.vaxapp.instelligence.injector.component.ApplicationComponent;
+import com.vaxapp.instelligence.injector.component.DaggerApplicationComponent;
+import com.vaxapp.instelligence.injector.module.ApplicationModule;
 
 public class AndroidApplication extends Application {
     private ApplicationComponent component;

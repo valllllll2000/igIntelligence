@@ -1,4 +1,4 @@
-package com.vaxapp.igintelligence.dummy;
+package com.vaxapp.instelligence.dummy;
 
 import java.util.ArrayList;
 import java.util.HashMap;

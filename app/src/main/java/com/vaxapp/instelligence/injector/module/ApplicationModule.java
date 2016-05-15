@@ -1,6 +1,6 @@
-package com.vaxapp.igintelligence.injector.module;
+package com.vaxapp.instelligence.injector.module;
 
-import com.vaxapp.igintelligence.presentation.AndroidApplication;
+import com.vaxapp.instelligence.presentation.AndroidApplication;
 import dagger.Module;
 
 @Module

@@ -1,4 +1,4 @@
-package com.vaxapp.igintelligence;
+package com.vaxapp.instelligence;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -6,8 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.vaxapp.igintelligence.ItemFragment.OnListFragmentInteractionListener;
-import com.vaxapp.igintelligence.dummy.DummyContent.DummyItem;
+import com.vaxapp.instelligence.ItemFragment.OnListFragmentInteractionListener;
+import com.vaxapp.instelligence.dummy.DummyContent.DummyItem;
 
 import java.util.List;
 
