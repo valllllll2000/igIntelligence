@@ -1,1 +1,1 @@
-# igIntelligence
+# inStelligence
